@@ -1,0 +1,36 @@
+E:\Data D\New folder (2)\XI RA\VB.Net\IW RESTO\IW RESTO\bin\Debug\IW RESTO.exe.config
+E:\Data D\New folder (2)\XI RA\VB.Net\IW RESTO\IW RESTO\obj\Debug\IW_RESTO.FormLoginPelanggan.resources
+E:\Data D\New folder (2)\XI RA\VB.Net\IW RESTO\IW RESTO\obj\Debug\IW_RESTO.Resources.resources
+E:\Data D\New folder (2)\XI RA\VB.Net\IW RESTO\IW RESTO\obj\Debug\IW RESTO.vbproj.GenerateResource.Cache
+E:\Data D\New folder (2)\XI RA\VB.Net\IW RESTO\IW RESTO\bin\Debug\IW RESTO.exe
+E:\Data D\New folder (2)\XI RA\VB.Net\IW RESTO\IW RESTO\bin\Debug\IW RESTO.pdb
+E:\Data D\New folder (2)\XI RA\VB.Net\IW RESTO\IW RESTO\bin\Debug\IW RESTO.xml
+E:\Data D\New folder (2)\XI RA\VB.Net\IW RESTO\IW RESTO\obj\Debug\IW RESTO.exe
+E:\Data D\New folder (2)\XI RA\VB.Net\IW RESTO\IW RESTO\obj\Debug\IW RESTO.xml
+E:\Data D\New folder (2)\XI RA\VB.Net\IW RESTO\IW RESTO\obj\Debug\IW RESTO.pdb
+E:\Data D\New folder (2)\XI RA\VB.Net\IW RESTO\IW RESTO\obj\Debug\IW_RESTO.Pemesanan.resources
+E:\Data D\New folder (2)\XI RA\VB.Net\IW RESTO\IW RESTO\obj\Debug\IW_RESTO.FormPetugas.resources
+E:\Data D\New folder (2)\XI RA\VB.Net\IW RESTO\IW RESTO\obj\Debug\IW_RESTO.FormEntriOrder.resources
+E:\Data D\New folder (2)\XI RA\VB.Net\IW RESTO\IW RESTO\obj\Debug\IW_RESTO.FormCamilan.resources
+E:\Data D\New folder (2)\XI RA\VB.Net\IW RESTO\IW RESTO\obj\Debug\IW_RESTO.FormMakanan.resources
+E:\Data D\New folder (2)\XI RA\VB.Net\IW RESTO\IW RESTO\obj\Debug\IW_RESTO.FormMinuman.resources
+E:\Data D\New folder (2)\XI RA\VB.Net\IW RESTO\IW RESTO\obj\Debug\IW_RESTO.FormKonfirmasiOrder.resources
+C:\Users\IsnanW354\Pictures\IW RESTO\IW RESTO\IW RESTO\bin\Debug\IW RESTO.exe.config
+C:\Users\IsnanW354\Pictures\IW RESTO\IW RESTO\IW RESTO\obj\Debug\IW RESTO.exe
+C:\Users\IsnanW354\Pictures\IW RESTO\IW RESTO\IW RESTO\obj\Debug\IW RESTO.xml
+C:\Users\IsnanW354\Pictures\IW RESTO\IW RESTO\IW RESTO\obj\Debug\IW RESTO.pdb
+C:\Users\IsnanW354\Pictures\IW RESTO\IW RESTO\IW RESTO\bin\Debug\IW RESTO.exe
+C:\Users\IsnanW354\Pictures\IW RESTO\IW RESTO\IW RESTO\bin\Debug\IW RESTO.pdb
+C:\Users\IsnanW354\Pictures\IW RESTO\IW RESTO\IW RESTO\bin\Debug\IW RESTO.xml
+C:\Users\IsnanW354\Pictures\IW RESTO\IW RESTO\IW RESTO\obj\Debug\IW_RESTO.FormCamilan.resources
+C:\Users\IsnanW354\Pictures\IW RESTO\IW RESTO\IW RESTO\obj\Debug\IW_RESTO.FormEntriOrder.resources
+C:\Users\IsnanW354\Pictures\IW RESTO\IW RESTO\IW RESTO\obj\Debug\IW_RESTO.FormKonfirmasiOrder.resources
+C:\Users\IsnanW354\Pictures\IW RESTO\IW RESTO\IW RESTO\obj\Debug\IW_RESTO.FormLoginPelanggan.resources
+C:\Users\IsnanW354\Pictures\IW RESTO\IW RESTO\IW RESTO\obj\Debug\IW_RESTO.FormMakanan.resources
+C:\Users\IsnanW354\Pictures\IW RESTO\IW RESTO\IW RESTO\obj\Debug\IW_RESTO.FormMinuman.resources
+C:\Users\IsnanW354\Pictures\IW RESTO\IW RESTO\IW RESTO\obj\Debug\IW_RESTO.FormPetugas.resources
+C:\Users\IsnanW354\Pictures\IW RESTO\IW RESTO\IW RESTO\obj\Debug\IW_RESTO.LoginForm1.resources
+C:\Users\IsnanW354\Pictures\IW RESTO\IW RESTO\IW RESTO\obj\Debug\IW_RESTO.Resources.resources
+C:\Users\IsnanW354\Pictures\IW RESTO\IW RESTO\IW RESTO\obj\Debug\IW_RESTO.Pemesanan.resources
+C:\Users\IsnanW354\Pictures\IW RESTO\IW RESTO\IW RESTO\obj\Debug\IW RESTO.vbproj.GenerateResource.Cache
+C:\Users\IsnanW354\Pictures\IW RESTO\IW RESTO\IW RESTO\obj\Debug\IW_RESTO.FormLogin.resources
